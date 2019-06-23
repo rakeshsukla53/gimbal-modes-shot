@@ -3,6 +3,7 @@
 
 First you have to understand the different axis in Gimbal.
 
+[Gimbal Axis](https://github.com/rakeshsukla53/gimbal-modes-shot/blob/master/gimbal.png)
 
 # Follow Mode
 
